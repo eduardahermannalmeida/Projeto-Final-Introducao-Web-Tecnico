@@ -1,0 +1,216 @@
+body {
+
+
+    color: maroon;
+    font-family: 'Handlee', cursive;
+    background-color: rgb(233, 183, 159);
+
+}
+
+#cabecalho {
+
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 30pt;
+    background-color: rgb(92, 121, 144);
+    color: white;
+    width: 1350px;
+    height: 125px;
+    margin: 25px auto;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+
+
+}
+
+#cabecalho h1 {
+
+    margin: -140px 20px;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(141, 183, 218), 0 0 5px rgb(81, 108, 129);
+
+}
+
+#cabecalho img {
+
+    -ms-ime-align: left;
+    margin: 23px 900px 0px 0px;
+
+}
+
+#cabecalho p {
+
+    font-size: 25pt;
+    margin: 35px 0px 0px 850px;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(141, 183, 218), 0 0 5px rgb(81, 108, 129);
+
+
+}
+
+#corpo {
+
+
+    margin: 10px 67px;
+    background-color: #bb8069;
+    border-style: dashed;
+    padding: 80px;
+    border-color: white;
+
+
+}
+
+#corpo h3 {
+
+    background-color: #cc9c89;
+    text-align: center;
+
+}
+
+.image {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tabela {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tabela2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tabela3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tabela4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.image2 {
+
+    display: grid;
+    place-items: center;
+
+}
+
+.contatinho {
+
+    display: grid;
+    place-items: center;
+    width: 100%;
+    clear: both;
+
+}
+
+
+#rodape {
+
+    margin: 10px 67px;
+    background-color: rgb(92, 121, 144);
+    ;
+    border-style: solid;
+    padding: 80px;
+    border-color: white;
+
+}
+
+#rodape h3 {
+
+    font-family: 'La Belle Aurore', cursive;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(141, 183, 218), 0 0 5px rgb(81, 108, 129);
+    text-align: right;
+
+}
+
+.imgs {
+
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#cabecalho a {
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.btns {
+
+    Display: Inline-Block;
+
+}
+
+input {
+
+    width: 230px;
+    background-color: #FDF4E3;
+    border-color: rgb(156, 48, 48);
+    box-shadow: 1px 1px 2px black, 0 0 25px rgb(209, 164, 143), 0 0 5px rgb(218, 168, 144);
+
+}
+
+select {
+
+    width: 238px;
+    color: maroon;
+    font-family: 'Handlee', cursive;
+    background-color: #FDF4E3;
+    border-color: rgb(156, 48, 48);
+    box-shadow: 1px 1px 2px black, 0 0 25px rgb(209, 164, 143), 0 0 5px rgb(218, 168, 144);
+
+}
+
+.btnss {
+
+    width: 100px;
+    color: maroon;
+    font-family: 'Handlee', cursive;
+    box-shadow: 1px 1px 2px black, 0 0 25px rgb(209, 164, 143), 0 0 5px rgb(218, 168, 144);
+
+}
+
+.assuntitos {
+
+    width: 200px;
+    border-color: rgb(156, 48, 48);
+    box-shadow: 1px 1px 2px black, 0 0 25px rgb(209, 164, 143), 0 0 5px rgb(218, 168, 144);
+
+}
+
+textarea {
+
+    background-color: #FDF4E3;
+    color: maroon;
+    font-family: 'Handlee', cursive;
+    width: 232px;
+    border-color: rgb(156, 48, 48);
+    box-shadow: 1px 1px 2px black, 0 0 25px rgb(209, 164, 143), 0 0 5px rgb(218, 168, 144);
+
+}
+
+#submit {
+
+    background-color: rgb(197, 255, 228);
+    border-color: rgb(52, 226, 145);
+
+}
+
+#reset {
+
+    background-color: rgb(255, 197, 197);
+    border-color: rgb(226, 52, 52);
+
+}
